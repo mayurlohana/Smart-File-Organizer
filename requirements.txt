@@ -1,0 +1,6 @@
+# No external dependencies required — only Python standard library.
+# tkinter ships with Python on most platforms.
+#
+# If tkinter is not installed (rare on macOS/Windows):
+#   macOS:   brew install python-tk
+#   Ubuntu:  sudo apt-get install python3-tk
